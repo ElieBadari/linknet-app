@@ -94,7 +94,7 @@
         android:layout_height="wrap_content"
         android:width="200dp"
         android:height="350dp"
-        android:background="@drawable/roundstyle"
+        android:background="@drawable/Buttons"
         android:backgroundTint="#F1F1F1"
         android:ems="10"
         android:inputType="textPersonName"
@@ -106,7 +106,7 @@
         app:layout_constraintVertical_bias="0.24" />
 
     <EditText
-        android:background="@drawable/roundstyle"
+        android:background="@drawable/Buttons"
         android:id="@+id/password"
         android:width="200dp"
         android:height="350dp"
