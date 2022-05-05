@@ -10,13 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LinkNet">
         <activity
-            android:label="Login"
-            android:name=".LoginPage"
+            android:name=".SignUpPage"
             android:exported="false" />
         <activity
-            android:label="Splash"
+            android:name=".LoginPage"
+            android:exported="false"
+            android:label="Login" />
+        <activity
             android:name=".SplashScreen"
-            android:exported="true">
+            android:exported="true"
+            android:label="Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
