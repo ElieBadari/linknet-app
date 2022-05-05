@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/drawable/button_style.xml" value="0.2555" />
+        <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/drawable/button_style1.xml" value="0.1135" />
         <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/drawable/curvy.xml" value="0.109" />
+        <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/drawable/curvy_style.xml" value="0.1135" />
+        <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/drawable/edit_text_style.xml" value="0.1" />
         <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/drawable/edittexts.xml" value="0.134" />
         <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/drawable/ic_android_large___1.xml" value="0.134" />
         <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/drawable/roundstyle.xml" value="0.203" />
@@ -12,7 +16,7 @@
         <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/layout/activity_main.xml" value="0.136" />
         <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/layout/activity_sign_up_page.xml" value="0.1" />
         <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/layout/activity_splash.xml" value="0.20521590423257802" />
-        <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/layout/login_tab_fragment.xml" value="0.1" />
+        <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/layout/login_tab_fragment.xml" value="0.2" />
         <entry key="..\:/xampp/htdocs/LinkNet/LinkNet-app/app/src/main/res/layout/signup_tab_fragment.xml" value="0.176" />
       </map>
     </option>

@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LinkNet">
         <activity
-            android:name=".SignUpPage"
+            android:name=".SignupTabFragment"
             android:exported="false" />
         <activity
-            android:name=".LoginPage"
+            android:name=".LoginTabFragment"
             android:exported="false"
             android:label="Login" />
         <activity
