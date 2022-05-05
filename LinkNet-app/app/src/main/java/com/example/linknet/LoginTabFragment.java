@@ -1,14 +1,19 @@
 package com.example.linknet;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
 
 import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
 
-public class LoginTabFragment extends AppCompatActivity {
+public class LoginTabFragment extends Fragment {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_login);
+    public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
+
+        ViewGroup root = (ViewGroup) inflater.inflate(R.layout.login_tab_fragment,container,false);
+        return root;
     }
 }
